@@ -1,4 +1,9 @@
-# Engage2Value: Predict Purchase Value from Multi-Session Digital Behavior Using ML
+### **Project Title:** Engage2Value: Predict Purchase Value from Multi-Session Digital Behavior Using ML
+**Course:** Machine Learning Programming
+**Author:** Priyanshu Yadav  
+**Roll No:** 23f1000018  
+**Email:** 23f1000018@ds.study.iitm.ac.in  
+**Institute:** IIT Madras BS Program  
 
 This project aims to predict a customer's purchase value based on their multi-session behavior across digital touchpoints. By analyzing anonymized user interactions—such as browser types, traffic sources, device details, and geographical indicators—this model helps optimize marketing and engagement strategies.
 
